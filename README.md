@@ -5,7 +5,7 @@ second project is a program or a mini-game is designed when you don’t have any
 
 There are a number of functions that this program requires so let us have an overview of each.
 
- 1.a random function: to generate rock, paper, or scissors. 
+ 1.random function: to generate rock, paper, or scissors. 
  
  2.valid function: to check the validity of the move.
  

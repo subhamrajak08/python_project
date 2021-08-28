@@ -1,4 +1,5 @@
 PYTHON_PROJECT:
+
 first project is calculator using python programming language.
 
 second project is a program or a mini-game is designed when you don’t have anyone to play or you are under lockdown alone.
